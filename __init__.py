@@ -1,1 +1,1 @@
-from AudioTools.AudioTools import AudioTools
+from AudioTools.AudioTools import *
